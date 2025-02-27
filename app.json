@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "InventoryAI",
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "The app needs access to your photos to let you add images to items.",
+          "cameraPermission": "The app needs access to your camera to let you take photos of items."
+        }
+      ]
+    ]
+  }
+} 

@@ -67,7 +67,7 @@ A minimalist, AI-powered web application that helps users keep track of their it
 
 ### ✅ AI Capabilities (Minimal First Beat)
 - **Text-based item addition** via chat-style interface
-  - e.g., “Add camping gear to Backpack”
+  - e.g., "Add camping gear to Backpack"
 - **Basic AI categorization** suggestions on item creation
 
 ---
@@ -137,3 +137,4 @@ inventory-web-app/
 ├── styles/                   # Tailwind config and globals
 ├── config/                   # App-wide configuration (e.g., constants)
 └── docs/                     # Internal documentation
+``` 

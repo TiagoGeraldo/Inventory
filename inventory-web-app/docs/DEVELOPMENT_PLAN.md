@@ -125,3 +125,4 @@ inventory-web-app/
 ├── config/                   # App-wide configs and constants
 ├── tests/                    # Unit and integration tests
 └── docs/                     # Internal docs and setup notes
+``` 
